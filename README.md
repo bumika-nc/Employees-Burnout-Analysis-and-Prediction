@@ -1,10 +1,7 @@
-# Employees-Burnout-Analysis-and-Prediction
-The "Employees Burnout Analysis and Prediction" GitHub repository is a project focused on analyzing and predicting employee burnout in an organization.
-
 # EMPLOYMENT-BURNOUT-ANALYSIS BY AIML-AICTE@IBM
 This repository contains the Employment Burnout Analysis (EBA) project, developed as part of IBM's Machine Learning curriculum. The project focuses on analyzing employee burnout using machine learning techniques.
 
-# Project Overview
+## Project Overview
 Employee burnout is a state of physical, emotional, and mental exhaustion caused by prolonged stress in the workplace. It can lead to decreased productivity, increased absenteeism, and higher turnover rates. Understanding and predicting employee burnout is crucial for organizations to maintain a healthy and productive workforce.
 
 In this project, we analyze a dataset containing various features related to employees and their work environment to predict burnout levels. The analysis includes data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation.
