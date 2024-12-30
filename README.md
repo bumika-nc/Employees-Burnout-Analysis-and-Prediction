@@ -19,7 +19,7 @@ README.md: This file, providing an overview of the project.
 
 ## <span style="color:blue; font-weight:bold;">**Getting Started**</span>  
 To replicate the analysis:
-Clone the repository:
+Clone the repository: https://github.com/bumika-nc/Employees-Burnout-Analysis-and-Prediction
 
 bash
 Copy code
